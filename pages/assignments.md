@@ -30,7 +30,7 @@ description: Ben Harvey's assignments
 ##### <a name="visualization"></a>visualization
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 
-{Add description of example an assignment here}
+<p>This assignment is an introduction to python and Jupyter Notebooks for data analytics. This assignment covers important python libraries for data analysis, techniques for manipulating and visualizing data, and basic of writing clean, readable code.</p>
 
 Results | Repository
 ---|---
