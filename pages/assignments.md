@@ -34,8 +34,8 @@ description: Ben Harvey's assignments
 
 Results | Repository
 ---|---
-<a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/HW1.ipynb" target = "_blank">assignment1 results</a>
-| <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments" target="_blank">assignment1 repositiory</a>
+|<a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/HW1.ipynb" target = "_blank">assignment1 results</a>
+| <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments" target="_blank">assignment1 repositiory</a>|
 
 ---
 
