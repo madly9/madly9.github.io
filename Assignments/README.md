@@ -1,2 +1,3 @@
-# ESMEDataAnalytics Assignment 01
-Repository for Assignment 01 in GW EMSE Data Science Course
+# ESMEDataAnalytics Assignment Repository
+
+Repository for ESME: Data Analytics homework assignments. Files include Jupyter Notebooks and datasets.
