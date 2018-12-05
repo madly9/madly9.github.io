@@ -13,21 +13,24 @@ description: Madison Turano is...
 
 <a href = "https://math.columbian.gwu.edu" target = "_blank">George Washington University Department of Mathematics</a>: Undergraduate Teaching Assistant and Private Tutor
 
-<a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/Assignment%2003.ipynb" target = "_blank">assignment3 results</a>
-
 
 #### <a name="researchbackground"></a>Research Background
 {Insert text here}
 
 
-#### <a name="education"></a>ecucation
+#### <a name="education"></a>Ecucation
 George Washington University:
 Masters of Science, Date Science: December 2019
+
 Bachelors of Science, Mathematics: May 2017
 
 
-#### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
+#### <a name="Resume and LinkedIn Profile"></a>cv and resume
+[Resume ![CV as pdf](icons16/pdf-icon.png)]<a href = "https://github.com/madly9/madly9.github.io/blob/master/General%20Documents%2C%20Resume%2009.pdf" target = "_blank">Resume</a>
+
+<a href = "https://www.linkedin.com/in/madison-turano" target = "_blank">LinkedIn Profile</a>
+
+
 
 ---
 
