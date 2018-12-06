@@ -26,7 +26,7 @@ keywords: statistics, data analytics, data science, data scientist
   </td>
   <td class="right">
     <a href="pages/publpics/Training_Test_Scatter_Plot.html">
-        <img src="assets/publpics/Training_Test_Scatter_Plot.png" alt="Training and Test Scatter Plot" title="Trianing and Test Scatter Plot">
+        <img src="assets/publpics/Training_Test_Scatter_Plot.PNG" alt="Training and Test Data Scatter Plot" title="Training and Test Data Scatter Plot"/>
     </a>
   </td>
 </tr>
