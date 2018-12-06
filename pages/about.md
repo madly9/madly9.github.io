@@ -15,14 +15,16 @@ description: Madison Turano is...
 
 
 #### <a name="researchbackground"></a>Research Background
-{Insert text here}
+<b>Pedagogy for Learning Assistants</b>
+<li>Researched how students learn and understand mathematics and applied research as a private math tutor</li>
+<li>Prepared questions and interviewed students to investigate their study habits and report findings to supervisor</li>
+<li>Examined students’ formative assessments to assess their understanding of mathematical material and generated a report of findings</li>
 
 
 #### <a name="education"></a>Ecucation
-George Washington University:
-Masters of Science, Date Science: December 2019
-
-Bachelors of Science, Mathematics: May 2017
+<b>George Washington University</b>:
+<li>Masters of Science, Date Science: December 2019</li>
+<li>Bachelors of Science, Mathematics: May 2017</li>
 
 
 #### <a name="Resume and LinkedIn Profile"></a>cv and resume
