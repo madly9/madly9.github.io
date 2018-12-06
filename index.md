@@ -9,7 +9,7 @@ keywords: statistics, data analytics, data science, data scientist
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://github.com/madly9/madly9.github.io/blob/master/General%20Documents%2C%20Resume%2009.pdf">Resume</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
+          <li><a href="https://github.com/madly9">GitHub</a></li>
           <li><a href="https://www.linkedin.com/in/madison-turano/">LinkedIn</a></li>
       </ul>
   </div>
