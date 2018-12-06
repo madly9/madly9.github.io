@@ -16,11 +16,10 @@ description: Ben Harvey's assignments
 
 
 ## <a name="Data"></a>Data
-#### <a name="Government Open Data"></a>[data.gov.in](https://data.gov.in/)
-{Add description of data here}
+#### <a href = "https://www.data.gov/" target = "_blank">DATA>GOV</a>
+Data.gov is the home of the U.S. Government's open data. Users can find government data, tools, and resources for research, web development and mobile applications, and design data visualizations.
 
-[data.gov.in data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+For more information, check out Data.gov's <a href = "https://www.data.gov/about" target = "_blank">About page</a>.
 
 ---
 
