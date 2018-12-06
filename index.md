@@ -25,16 +25,15 @@ keywords: statistics, data analytics, data science, data scientist
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    <a href="pages/publpics/Training_Test_Scatter_Plot.html">
+        <img src="assets/publpics/Training_Test_Scatter_Plot.png" alt="Training and Test Scatter Plot" title="Trianing and Test Scatter Plot">
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+        <img src="assets/publpics/Semi_Supervised_Classification_Iris_Dataset.PNG" alt="Semi-Supervised Classification" title="Semi-Supervised Classification"/>
     </a>
   </td>
   <td class="right">
