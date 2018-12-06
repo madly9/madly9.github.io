@@ -16,26 +16,35 @@ description: Ben Harvey's assignments
 
 
 ## <a name="Data"></a>Data
-#### <a href = "https://www.data.gov/" target = "_blank">DATA>GOV</a>
+#### <a href = "https://www.data.gov/" target = "_blank">DATA.GOV</a>
 Data.gov is the home of the U.S. Government's open data. Users can find government data, tools, and resources for research, web development and mobile applications, and design data visualizations.
 
-For more information, check out Data.gov's <a href = "https://www.data.gov/about" target = "_blank">About page</a>.
+For more information, check out Data.gov's <a href = "https://www.data.gov/about" target = "_blank">About</a> page.
 
 ---
 
-#### <a name="qtl"></a>[World Band](http://data.worldbank.org/)
-{Add description of data here}
+#### <a href = "https://data.worldbank.org/" target = "_blank">The World Bank: Data</a>
+The World Bank is a global partnership of 189 member countries. The World Bank is one of the world's largest sources of funding and data for developing countries.
 
-[World Bank data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+For more information, check out The World's Bank <a href = "http://www.worldbank.org/en/who-we-are" target = "_blank">Who We Are</a> page.
 
 ---
 
-#### <a name="qtl"></a>[Reserve Bank India](https://rbi.org.in/Scripts/Statistics.aspx)
-{Add description of data here}
+#### <a href = "https://humanprogress.org/" target = "_blank">HumanProgress</a>
+HumanProgress.org is a project of the <a href="https://www.cato.org/" target="_blank">Cato Institute</a> with major support from the <a href="https://www.templeton.org/" target="_blank">John Templeton Foundation</a> and the <a href="https://searlefreedomtrust.org/" target="_blank">Searle Freedom Trust</a>. Their mission is to explain how the world has progressed through comprehensive <a href = "https://humanprogress.org/dws" target = "_blank">datasets</a> and data analytics.
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+For more information, check out Human Progress's <a href = "https://humanprogress.org/about" target = "_blank">About</a> page.
+
+---
+
+#### <a href = "https://rbi.org.in/Scripts/Statistics.aspx" target = "_blank">Reserve Bank of India</a>
+The Reserve Bank of India was established in 1935 to
+
+<blockquote cite="https://rbi.org.in/Scripts/AboutusDisplay.aspx">
+"to regulate the issue of Bank notes and keeping of reserves with a view to securing monetary stability in India and generally to operate the currency and credit system of the country to its advantage; to have a modern monetary policy framework to meet the challenge of an increasingly complex economy, to maintain price stability while keeping in mind the objective of growth"
+</blockquote>
+
+For more information, check out The Reserve Bank's <a href = "https://rbi.org.in/Scripts/AboutusDisplay.aspx" target = "_blank">About Us</a> page.
 
 ---
 
