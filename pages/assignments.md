@@ -67,7 +67,6 @@ Results | Repository
 ##### <a name="machinelearning"></a>machine learning part2
 * [Lab: Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
-{Add description of example an assignment here}
 
 Results | Repository
 ---|---
@@ -86,13 +85,15 @@ Results | Repository
 ##### <a name="bigdataanalytics"></a>big data analytics
 * [Lab: MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
 
-{Add description of example an assignment here}
+| Code      | Repository        | Presentation  |
+| ------------- |:-------------:| -----:|
+| <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/Final%20Project/Final%20Project%20Code.ipynb" target = "_blank">Code</a>      | <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments/Final%20Project" target="_blank">Repository</a> | <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/Final%20Project/Final%20Project%2C%20Presentation.pdf" target = "_blank">Presentation</a> |
 
 
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [assignment4 results]()| [assignment4 repositiory]()|
-
+Code | Repository | Presentation
+---|---
+|<a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/Final%20Project/Final%20Project%20Code.ipynb" target = "_blank">Code</a> | <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments/Final%20Project" target="_blank">Repository</a> | <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/Final%20Project/Final%20Project%2C%20Presentation.pdf" target = "_blank">Presentation</a>
+---
 ---
 
 
