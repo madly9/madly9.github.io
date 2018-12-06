@@ -30,9 +30,9 @@ description: Ben Harvey's assignments
 ##### <a name="visualization"></a>visualization
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 
-Results | Repository
----|---
-|<a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/HW1.ipynb" target = "_blank">assignment1 results</a>| <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments" target="_blank">assignment1 repositiory</a>|
+| Results       | Repository   |
+| ------------- |-------------:|
+| <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/HW1.ipynb" target = "_blank">assignment1 results</a> | <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments" target="_blank">assignment1 repositiory</a> |
 
 ---
 
@@ -41,18 +41,15 @@ Results | Repository
 ##### <a name="scientificcomputing"></a>scientific computing
 * [Lab: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
 
-{Add description of example an assignment here}
-
 
 ##### <a name="statisticalanalysis"></a>statistic alanalysis
 * [Lab: Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
 * [Lab: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
 
-{Add description of example an assignment here}
 
-Results | Repository
----|---
-|<a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/HW2.ipynb" target = "_blank">assignment2 results</a>| <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments" target="_blank">assignment2 repositiory</a>|
+| Results       | Repository   |
+| ------------- |-------------:|
+| <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/HW2.ipynb" target = "_blank">assignment2 results</a> | <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments" target="_blank">assignment2 repositiory</a> |
 
 ---
 
@@ -61,7 +58,6 @@ Results | Repository
 ##### <a name="deeplearning"></a>machine learning part1
 * [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
-{Add description of example an assignment here}
 
 
 ##### <a name="machinelearning"></a>machine learning part2
