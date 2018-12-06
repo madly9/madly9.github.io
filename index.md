@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Madison Turano
-description: Madison Turano is a Data Science Masters student at George Washington University. She currently works as a developer at <a href = "http://www.prosphere.com/" target="_blank">ProSphere</a>, a health and information technology (IT) consulting company for the federal government.
+description: Madison Turano is a Data Science Masters student at George Washington University. She currently works as a developer at <a  href = "http://www.prosphere.com/" target="_blank">ProSphere</a>, a health and information technology (IT) consulting company for the federal government.
 keywords: statistics, data analytics
 ---
 
