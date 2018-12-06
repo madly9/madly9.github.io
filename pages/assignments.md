@@ -30,8 +30,8 @@ description: Ben Harvey's assignments
 ##### <a name="visualization"></a>visualization
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 
-| Results       | Repository   |
-| ------------- |-------------:|
+| Results       |  Repository   |
+| ------------- |--------------:|
 | <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/HW1.ipynb" target = "_blank">assignment1 results</a> | <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments" target="_blank">assignment1 repositiory</a> |
 
 ---
@@ -47,8 +47,8 @@ description: Ben Harvey's assignments
 * [Lab: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
 
 
-| Results       | Repository   |
-| ------------- |-------------:|
+| Results       | Repository    |
+| ------------- |--------------:|
 | <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/HW2.ipynb" target = "_blank">assignment2 results</a> | <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments" target="_blank">assignment2 repositiory</a> |
 
 ---
@@ -64,8 +64,8 @@ description: Ben Harvey's assignments
 * [Lab: Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
 
-| Results       | Repository   |
-| ------------- |-------------:|
+| Results       | Repository    |
+| ------------- |--------------:|
 | <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/Assignment%2003.ipynb" target = "_blank">assignment3 results</a> | <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments" target="_blank">assignment3 repositiory</a> |
 ---
 
