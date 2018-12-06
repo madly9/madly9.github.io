@@ -1,17 +1,16 @@
 ---
 layout: frontpage
 title: Madison Turano
-description: Madison Turano is a Data Science Masters student at George Washington University. She currently works as a developer at <a  href = "http://www.prosphere.com/" target="_blank">ProSphere</a>, a health and information technology (IT) consulting company for the federal government.
-keywords: statistics, data analytics
+description: Madison Turano is a Data Science Masters student at George Washington University. She currently works as a developer at ProSphere, a health and information technology (IT) consulting company for the federal government.
+keywords: statistics, data analytics, data science, data scientist
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+          <li><a href="https://github.com/madly9/madly9.github.io/blob/master/General%20Documents%2C%20Resume%2009.pdf">Resume</a></li>
           <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="https://www.linkedin.com/in/madison-turano/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
