@@ -67,7 +67,7 @@ For more information, check out AWS's <a href = "https://aws.amazon.com/opendata
 ---
 
 #### <a href = "https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&_ga=2.185881259.-387376060.1544111326" target = "_blank">Google Datasets</a>
-<a href = "https://cloud.google.com/bigquery/" target="_blank">Google BigQuery</a> hosts a registry of publicly available data as part of the <a href = "https://console.cloud.google.com/marketplace/partners/bigquery-public-data?_ga=2.118576395.-387376060.1544111326" target="_blank>Google Cloud Public Dataset Program</a>. Registered users can access and analyze public datasets hosted on the Google Cloud Platform, and share any of their own datasets with the public.
+<a href = "https://cloud.google.com/bigquery/" target="_blank">Google BigQuery</a> hosts a registry of publicly available data as part of the <a href = "https://console.cloud.google.com/marketplace/partners/bigquery-public-data?_ga=2.118576395.-387376060.1544111326" target="_blank">Google Cloud Public Dataset Program</a>. Registered users can access and analyze public datasets hosted on the Google Cloud Platform, and share any of their own datasets with the public.
 
 For more information, check Google's <a href = "https://cloud.google.com/bigquery/public-data/" target="_blank">BigQuery Public Datasets</a> page.
 
