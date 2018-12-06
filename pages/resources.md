@@ -149,7 +149,7 @@ For more information, check out Kaggle's <a href = "https://www.kaggle.com/kaggl
 - <a href = "http://www.biostat.wisc.edu/~kbroman/Rintro" target="_blank">Intro to R</a>: Not really a tutorial, but some useful links
 - <a href = "http://www.biostat.wisc.edu/~kbroman/perlintro" target="_blank">Intro to Perl</a>: Fairly old language now, so consider <a href = "https://www.ruby-lang.org/en/"   target="_blank">Ruby</a> or <a href = "https://www.python.org/" target="_blank">Python</a>
 - <a href = "http://www.biostat.wisc.edu/~kbroman/Cintro" target="_blank">Intro to C</a>: Not really a tutorial, but it includes a list of C programming books
-- <a href = "https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/" target="_blank"></a>
+- <a href = "https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/" target="_blank">Top 10 Worst Graphs</a>
 
 ---
 
