@@ -102,38 +102,6 @@ For more information, check out Kaggle's <a href = "https://www.kaggle.com/kaggl
 
 ---
 
-#### <a name="qtl"></a>[Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-#### <a name="qtl"></a>[Qandl](https://www.quandl.com/)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-#### <a name="qtl"></a>[Past KDD Cups](http://www.kdd.org/kdd-cup)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-#### <a name="qtl"></a>[Driven Data](https://www.drivendata.org/)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
 
 ## <a name="Tutorials"></a>Tutorials
 - <a href = "http://kbroman.org/steps2rr" target="_blank">Initial Steps Towards Reproducible Research</a>
