@@ -79,21 +79,15 @@ Results | Repository
 ##### <a name="networkanalysis"></a>network analysis
 * [Lab: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
 
-{Add description of example an assignment here}
 
 
 ##### <a name="bigdataanalytics"></a>big data analytics
 * [Lab: MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
 
-| Code      | Repository        | Presentation  |
-| ------------- |:-------------:| -----:|
+| Code          | Repository        | Presentation  |
+| ------------- |:-----------------:| -------------:|
 | <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/Final%20Project/Final%20Project%20Code.ipynb" target = "_blank">Code</a>      | <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments/Final%20Project" target="_blank">Repository</a> | <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/Final%20Project/Final%20Project%2C%20Presentation.pdf" target = "_blank">Presentation</a> |
 
-
-Code | Repository | Presentation
----|---
-|<a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/Final%20Project/Final%20Project%20Code.ipynb" target = "_blank">Code</a> | <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments/Final%20Project" target="_blank">Repository</a> | <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/Final%20Project/Final%20Project%2C%20Presentation.pdf" target = "_blank">Presentation</a>
----
 ---
 
 
