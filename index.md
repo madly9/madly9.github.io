@@ -32,13 +32,13 @@ keywords: statistics, data analytics, data science, data scientist
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
+    <a href="pages/publpicsSemi_Supervised_Classification_Iris_Dataset.html">
         <img src="assets/publpics/Semi_Supervised_Classification_Iris_Dataset.PNG" alt="Semi-Supervised Classification" title="Semi-Supervised Classification"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="pages/publpics/Political_Economic_Heat_Map.html">
+        <img src="assets/publpics/Political_Economic_Heat_Map.PNG" alt="Heat Map of Correlations between Political Factors and Economic Prosperity" title="Heat Map of Correlations between Political Factors and Economic Prosperity"/>
     </a>
   </td>
 </tr>
