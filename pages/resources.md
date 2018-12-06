@@ -69,31 +69,36 @@ For more information, check out AWS's <a href = "https://aws.amazon.com/opendata
 #### <a href = "https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&_ga=2.185881259.-387376060.1544111326" target = "_blank">Google Datasets</a>
 <a href = "https://cloud.google.com/bigquery/" target="_blank">Google BigQuery</a> hosts a registry of publicly available data as part of the <a href = "https://console.cloud.google.com/marketplace/partners/bigquery-public-data?_ga=2.118576395.-387376060.1544111326" target="_blank">Google Cloud Public Dataset Program</a>. Registered users can access and analyze public datasets hosted on the Google Cloud Platform, and share any of their own datasets with the public.
 
-For more information, check Google's <a href = "https://cloud.google.com/bigquery/public-data/" target="_blank">BigQuery Public Datasets</a> page.
+For more information, check out Google's <a href = "https://cloud.google.com/bigquery/public-data/" target="_blank">BigQuery Public Datasets</a> page.
 
 ---
 
-#### <a name="qtl"></a>[Youtube labeled Video datasets](https://research.google.com/youtube8m/)
-{Add description of data here}
+#### <a href = "https://research.google.com/youtube8m" target = "_blank">YouTube-8M</a>
+YouTube-8M is a large-scale labeled video datasets that consists of millions of YouTube video IDs, machine-generated annotations, and precomputed audio-visual features from billions of frames and audio segments. Their goal is to:
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+<blockquote cite="https://research.google.com/youtube8m">
+accelerate research on large-scale video understanding, representation learning, noisy data modeling, transfer learning, and domain adaptation approaches for video.
+</blockquote>
 
----
-
-#### <a name="qtl"></a>[UCI Machine Learning Repisitory](https://archive.ics.uci.edu/ml/datasets.html)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+For more information, check out YouTube-8M's <a href = "https://research.google.com/youtube8m/people.html" target="_blank">About</a> page.
 
 ---
 
-#### <a name="qtl"></a>[Kaggle](https://www.kaggle.com/datasets)
-{Add description of data here}
+#### <a href = "https://archive.ics.uci.edu/ml/datasets.html" target = "_blank">UCI Machine Learning Repository</a>
+The <a href = "https://cml.ics.uci.edu/" target="_blank">University of California, Irvine (UCI) Center for Machine Learning and Intelligent Systems</a> conducts research in machine learning and intelligent systems to:
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+<blockquote cite="https://cml.ics.uci.edu/home/about-us/">
+address  the fundamental problem of developing computer algorithms that can harness the vast amounts of digital data available in the 21st century and then use this data in an intelligent way to solve a variety of real-world problems.
+</blockquote>
+
+For more information, check out UCI Center for Machine Learning and Intelligent Systems' <a href = "https://cml.ics.uci.edu/home/about-us/" target="_blank">About us</a> page.
+
+---
+
+#### <a href = "https://www.kaggle.com/datasets" target = "_blank">Kaggle Datasets</a>
+Kaggle is an online community of data scientists and "data enthusiasts". Users can <a href= "https://www.kaggle.com/competitions" target="_blank">enter competitions</a>, <a href = "https://www.kaggle.com/learn/overview" target="_blank">learn data scientist skills</a>, and <a href = "" target="_blank">access and create datasets</a>.
+
+For more information, check out Kaggle's <a href = "https://www.kaggle.com/kaggle" target="_blank">Overview</a> page.
 
 ---
 
@@ -131,25 +136,22 @@ For more information, check Google's <a href = "https://cloud.google.com/bigquer
 
 
 ## <a name="Tutorials"></a>Tutorials
-- [initial steps toward reproducible research](http://kbroman.org/steps2rr)
-- [organizing data in spreadsheets](http://kbroman.org/dataorg)
-- [git/github guide](http://kbroman.org/github_tutorial)
-- [minimal make](http://kbroman.org/minimal_make)
-- [knitr in a knutshell](http://kbroman.org/knitr_knutshell)
-- [R package primer](http://kbroman.org/pkg_primer)
-- [simple site](http://kbroman.org/simple_site): making a simple
-  website with [GitHub Pages](http://pages.github.com)
-- [hipsteR](http://kbroman.org/hipsteR/): re-educating people who learned R before it was cool
+- <a href = "http://kbroman.org/steps2rr" target="_blank">Initial Steps Towards Reproducible Research</a>
+- <a href = "http://kbroman.org/dataorg" target="_blank">Organize Data in Spreadsheets</a>
+- <a href = "http://kbroman.org/github_tutorial" target="_blank">GitHub Guide</a>
+- <a href = "http://kbroman.org/minimal_make" target="_blank">Minimal Make</a>
+- <a href = "http://kbroman.org/knitr_knutshell" target="_blank">Knitr in a Knutshell</a>
+- <a href = "http://kbroman.org/pkg_primer" target="_blank">R Package Primer</a>
+- <a href = "http://kbroman.org/simple_site" target="_blank">Simple Site</a>: Making a simple site with <a href = "http://pages.github.com" target="_blank">GitHub Pages</a>
+- <a href = "http://kbroman.org/hipsteR/" target="_blank">hipsteR</a>: Re-education people who learned R before it was cool
 
 
-- [intro to R](http://www.biostat.wisc.edu/~kbroman/Rintro)
-  \[not really a tutorial, but there are some useful links here\]
-- [intro to Perl](http://www.biostat.wisc.edu/~kbroman/perlintro)
-  \[very old; I now recommend [ruby](https://www.ruby-lang.org/en/) or [python](https://www.python.org/)\]
-- [intro to C](http://www.biostat.wisc.edu/~kbroman/Cintro)
-  \[not really a tutorial, but it includes a list of C programming books\]
-- [top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/)
+- <a href = "http://www.biostat.wisc.edu/~kbroman/Rintro" target="_blank">Intro to R</a>: Not really a tutorial, but some useful links
+- <a href = "http://www.biostat.wisc.edu/~kbroman/perlintro" target="_blank">Intro to Perl</a>: Fairly old language now, so consider <a href = "https://www.ruby-lang.org/en/"   target="_blank">Ruby</a> or <a href = "https://www.python.org/" target="_blank">Python</a>
+- <a href = "http://www.biostat.wisc.edu/~kbroman/Cintro" target="_blank">Intro to C</a>: Not really a tutorial, but it includes a list of C programming books
+- <a href = "https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/" target="_blank"></a>
 
+---
 
 ## <a name="Miscelaneous"></a>Miscelaneous
 ---
