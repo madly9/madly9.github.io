@@ -68,9 +68,9 @@ Results | Repository
 * [Lab: Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
 
-Results | Repository
----|---
-|<a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/Assignment%2003.ipynb" target = "_blank">assignment3 results</a>| <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments" target="_blank">assignment3 repositiory</a>|
+| Results       | Repository   |
+| ------------- |-------------:|
+| <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/Assignment%2003.ipynb" target = "_blank">assignment3 results</a> | <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments" target="_blank">assignment3 repositiory</a> |
 ---
 
 
