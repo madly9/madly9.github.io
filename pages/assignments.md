@@ -30,7 +30,7 @@ description: Ben Harvey's assignments
 ##### <a name="visualization"></a>visualization
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 
-| Results       |  Repository   |
+| <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/HW1.ipynb" target = "_blank">Results</a>      |  <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments" target="_blank">Repository </a>  |
 | ------------- |--------------:|
 | <a href = "https://github.com/madly9/madly9.github.io/blob/master/Assignments/HW1.ipynb" target = "_blank">assignment1 results</a> | <a href = "https://github.com/madly9/madly9.github.io/tree/master/Assignments" target="_blank">assignment1 repositiory</a> |
 
